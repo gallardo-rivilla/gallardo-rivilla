@@ -26,6 +26,13 @@
 
 - 📫 How to reach me **gallardorivilla@gmail.com**
 
+### 🛠 Core Skills
+
+- **Microsoft Fabric & Databricks & Apache Spark:** Developing scalable data pipelines and optimizing data transformations.
+- **Azure Synapse & Data Factory:** Building end-to-end data solutions and automating workflows.
+- **Python Programming:** Writing clean and efficient code for data manipulation and analytics.
+- **Real-time Data Integration:** Implementing streaming data solutions for real-time insights.
+
 <h3 align="left">Certifications:</h3>
 <p align="left">
 <a href="https://credentials.databricks.com/2a8c043e-e81c-4eef-95a9-0be03c2e8fa9" target="blank"><img align="center" src="https://gallardorivilla.es/wp-content/uploads/2024/06/LOGO_DATABRICKS_DATA_ENGINEER_PROFESSIONAL-removebg-preview.png" alt="Databricks Data Engineer Professional" height="125" width="120" /></a>
