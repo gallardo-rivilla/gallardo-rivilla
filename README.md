@@ -28,8 +28,11 @@
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-<a href="https://learn.microsoft.com/es-es/users/gallardorivilla/credentials/2f188088703eb1d2" target="blank"><img align="center" src="https://gallardorivilla.es/wp-content/uploads/2023/08/badge-dp-203.png" alt="Microsoft Data Engineer" height="125" width="125" /></a><a href="https://credentials.databricks.com/00a44362-fb67-44c3-896d-6209ad1543e1" target="blank"><img align="center" src="https://gallardorivilla.es/wp-content/uploads/2023/08/Databricks_data_engineer.png" alt="Databricks Data Engineer" height="125" width="120" /></a>
-
+<a href="https://credentials.databricks.com/2a8c043e-e81c-4eef-95a9-0be03c2e8fa9" target="blank"><img align="center" src="https://gallardorivilla.es/wp-content/uploads/2024/06/LOGO_DATABRICKS_DATA_ENGINEER_PROFESSIONAL-removebg-preview.png" alt="Databricks Data Engineer Professional" height="125" width="120" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/es-es/gallardorivilla/AE5C2348BF977DB5?sharingId=D15DD7C3F0E55699" target="blank"><img align="center" src="https://gallardorivilla.es/wp-content/uploads/2024/04/Certificacion-Fabric-Engineer.png" alt="Fabric Analytics Engineer Associate" height="125" width="120" /></a>  
+<a href="https://learn.microsoft.com/es-es/users/gallardorivilla/credentials/2f188088703eb1d2" target="blank"><img align="center" src="https://gallardorivilla.es/wp-content/uploads/2023/08/badge-dp-203.png" alt="Microsoft Data Engineer" height="125" width="125" /></a>
+<a href="https://credentials.databricks.com/00a44362-fb67-44c3-896d-6209ad1543e1" target="blank"><img align="center" src="https://gallardorivilla.es/wp-content/uploads/2023/08/Databricks_data_engineer.png" alt="Databricks Data Engineer" height="125" width="120" /></a>
+<a href="https://learn.microsoft.com/api/credentials/share/es-es/gallardorivilla/FC54F407C7399166?sharingId=D15DD7C3F0E55699" target="blank"><img align="center" src="https://gallardorivilla.es/wp-content/uploads/2024/03/dp500.png" alt="Designing and Implementing Enterprise-Scale Analytics Solution" height="125" width="120" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
